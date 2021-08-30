@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 657db18851e505e40bfbc76fc105cfc3, type: 3}
+  m_Name: CheckListData
+  m_EditorClassIdentifier: 
+  itemsJson: "{\"list\":[{\"complete\":false,\"text\":\"1a. UI - menu d'accueil\"},{\"complete\":false,\"text\":\"1b.
+    UI score obstacles\"},{\"complete\":false,\"text\":\"1b. UI score objets\"},{\"complete\":false,\"text\":\"1b.
+    UI Chrono\"},{\"complete\":false,\"text\":\"1c. UI Ecran fin Score\"},{\"complete\":false,\"text\":\"1c.
+    UI Ecran fin Restart\"},{\"complete\":false,\"text\":\"2a. Modif - Remplac\xE9
+    le d\xE9cor\"},{\"complete\":false,\"text\":\"2b. Modif- Remplacer l'obstacle\"},{\"complete\":false,\"text\":\"2c.
+    Modif - Remplacer personnage Player\"},{\"complete\":false,\"text\":\"3a. Commencer
+    en pause\"},{\"complete\":false,\"text\":\"3b. Compter le nombre d'obstacles
+    pass\xE9s\"},{\"complete\":false,\"text\":\"3c. Spawner objets \xE0 attraper/\xE9viter\"},{\"complete\":false,\"text\":\"3d.
+    Compter le nombes d'objets pris\"},{\"complete\":false,\"text\":\"3e. Gestion
+    du chrono de la partie\"},{\"complete\":false,\"text\":\"3f. Calculer score final\"},{\"complete\":false,\"text\":\"3g.
+    limiter spawn objet autour d'obstacles\"},{\"complete\":false,\"text\":\"4a.
+    Orientation personnage\"},{\"complete\":false,\"text\":\"4b. D\xE9placement et
+    repositionnement d\xE9cor\"},{\"complete\":false,\"text\":\"4c. fonctionnement
+    du spawner\"}]}"
+  allowEditing: 0
